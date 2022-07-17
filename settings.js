@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['94705031527']
 global.premium = ['94705031527']
-global.ownernomer = '94705031527'
+global.ownernomer = ['94705031527']
 global.ownername = 'UDULA BRO'
 global.botname = 'DEEP FIRE MD WHATSAPP BOT'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
